@@ -1,10 +1,30 @@
-- 👋 Ola, eu sou @DaphinyAssis
-- 👀 Estou interessada em aprender e evoluir em programação
-- 🌱 Eu atualmente estou aprendendo front-end (html,css,javascript), back-end (node.js, API) e na parte estou iniciando na area de DevOps 
-- 💞️ Eu procuro colaborar com as outras pessoas que estao aprendendo que nem eu
-- 📫 entre em contato comigo pelo meu linkedin https://www.linkedin.com/in/daphinyassis/
+# Oii, eu sou a [Daphiny] 👋 <img src="[URL_DO_GIF](https://i.gifer.com/7AAy.gif)" width="50" height="50" align="rigth">
 
-<!---
-DaphinyAssis/DaphinyAssis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bem-vindo ao meu perfil no GitHub! Sou estudante de Engenharia de Software, apaixonada por **DevOps**, **scripts em Python** e **desenvolvimento front-end**. Adoro aprender sobre novas tecnologias e estou sempre em busca de aprimorar minhas habilidades em programação.
+
+## 🔧 Tecnologias & Ferramentas
+- **Linguagens de Programação:** Python, C#, Java
+- **Ferramentas DevOps:** Azure DevOps, GitLab, Visual Studio, IIS, RDP, SSMS, Docker
+- **Front-End:** HTML, CSS, JavaScript
+
+## 🌱 Aprendendo Atualmente
+- Docker
+- Pipeline
+- Animação 3D
+- Scripts de Automação em Python
+
+## 🎯 Objetivos
+- Conseguir uma posição fixa na área de desenvolvimento de software
+- Aprofundar meu conhecimento em Devops e Front - End
+- Construir e contribuir para mais projetos open-source
+
+## 🎮 Hobbies & Interesses
+- Criar sites
+- Jogar jogos com narrativa interativa
+- Conversar sobre super-herói, Pokémon e explorar temas teológicos
+
+## 📫 Entre em Contato
+- [LinkedIn](# https://www.linkedin.com/in/daphinyassis/)
+- [Email](#assis.daphiny19@gmail.com)
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar!
