@@ -1,4 +1,4 @@
-# Oii, eu sou a [Daphiny] 👋 <img src="[URL_DO_GIF](https://i.gifer.com/7AAy.gif)" width="50" height="50" align="rigth">
+# Oii, eu sou a Daphiny 👋 
 
 Bem-vindo ao meu perfil no GitHub! Sou estudante de Engenharia de Software, apaixonada por **DevOps**, **scripts em Python** e **desenvolvimento front-end**. Adoro aprender sobre novas tecnologias e estou sempre em busca de aprimorar minhas habilidades em programação.
 
