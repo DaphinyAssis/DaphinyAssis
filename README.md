@@ -24,7 +24,7 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de Engenharia de Software, apai
 - Conversar sobre super-herói, Pokémon e explorar temas teológicos
 
 ## 📫 Entre em Contato
-- [LinkedIn](# https://www.linkedin.com/in/daphinyassis/)
-- [Email](#assis.daphiny19@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/daphinyassis/)
+- [Email](mailto:assis.daphiny19@gmail.com)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar!
