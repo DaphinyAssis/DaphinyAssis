@@ -28,3 +28,5 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de Engenharia de Software, apai
 - [Email](mailto:assis.daphiny19@gmail.com)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar!
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBjOWtydGV4MjY5YTE1eWY4eDNyODcxa3diYjNqcG1mZXVoZzIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F28qKb7t4P7v8vhO9z/giphy.gif"  width="600px" alt="GIF">
