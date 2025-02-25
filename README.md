@@ -12,6 +12,7 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de Engenharia de Software, apai
 - Pipeline
 - Animação 3D
 - Scripts de Automação em Python
+- IOT
 
 ## 🎯 Objetivos
 - Conseguir uma posição fixa na área de desenvolvimento de software
