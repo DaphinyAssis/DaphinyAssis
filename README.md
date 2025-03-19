@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de Engenharia de Software, apai
 
 ## 🌱 Aprendendo Atualmente
 - Docker
-- Pipeline
+- Blender
 - Animação 3D
 - Scripts de Automação em Python
 - IOT
